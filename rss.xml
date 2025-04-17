@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Моя RSS Лента</title>
+    <link>https://example.com/</link>
+    <description>Личные новости и заметки</description>
+    <item>
+      <title>Первая новость</title>
+      <link>https://example.com/news1</link>
+      <description>Описание первой новости</description>
+      <pubDate>Thu, 17 Apr 2025 12:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
